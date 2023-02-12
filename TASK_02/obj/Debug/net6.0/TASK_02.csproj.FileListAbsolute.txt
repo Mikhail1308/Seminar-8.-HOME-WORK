@@ -1,0 +1,15 @@
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\TASK_02.exe
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\TASK_02.deps.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\TASK_02.runtimeconfig.json
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\TASK_02.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\ref\TASK_02.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\bin\Debug\net6.0\TASK_02.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.csproj.AssemblyReference.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.AssemblyInfoInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.AssemblyInfo.cs
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.csproj.CoreCompileInputs.cache
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\ref\TASK_02.dll
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.pdb
+D:\Geek Brains\Тема 5  Знакомство с языками программирования\Семинар 8  Массивы многомерные. ПРОДОЛЖЕНИЕ\Seminar-8.-HOME-WORK\TASK_02\obj\Debug\net6.0\TASK_02.genruntimeconfig.cache
