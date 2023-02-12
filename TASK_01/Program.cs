@@ -43,10 +43,8 @@ int[,] SortedRowArray(int[,] array)
     return array;
 }
 
-
 void PrintArray(int[,] array)
 {
-    // Console.WriteLine();
     for (int i = 0; i < array.GetLength(0); i++)
     {
         Console.WriteLine();
@@ -62,7 +60,6 @@ int row = 3;
 int col = 4;
 int min = 1;
 int max = 10;
-
 int[,] baseArray = CreateBaseArray(row, col, min, max);
 Console.WriteLine("Базовый массив: ");
 PrintArray(baseArray);
